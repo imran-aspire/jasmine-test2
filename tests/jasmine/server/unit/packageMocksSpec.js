@@ -8702,11 +8702,11 @@ var packageMetadata = {
                 },
                 "pid": {
                   "type": "constant",
-                  "value": 16323
+                  "value": 16822
                 },
                 "fout": {
                   "type": "constant",
-                  "value": 44
+                  "value": 42
                 },
                 "child": {
                   "type": "object",
@@ -8725,7 +8725,7 @@ var packageMetadata = {
                     },
                     "pid": {
                       "type": "constant",
-                      "value": 16323
+                      "value": 16822
                     },
                     "stdin": {
                       "type": "null",
@@ -8854,11 +8854,11 @@ var packageMetadata = {
       "members": {
         "autoupdateVersion": {
           "type": "constant",
-          "value": "27111d932066ce60c7bc3587cc17b2372f484faa"
+          "value": "89cbcf39c5eaa1886aebfdc9133cb4b99a45de7b"
         },
         "autoupdateVersionRefreshable": {
           "type": "constant",
-          "value": "984a972d45f443de78f91fc4ece681db679f82c1"
+          "value": "15b71897a096d94474978b8c918fee75cb5c6d01"
         },
         "autoupdateVersionCordova": {
           "type": "constant",
